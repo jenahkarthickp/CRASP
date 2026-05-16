@@ -1,0 +1,47 @@
+{
+  "classification": {
+    "test_accuracy": 0.85,
+    "cv_accuracy_mean": 0.8412,
+    "cv_accuracy_std": 0.014
+  },
+  "regression": {
+    "score_anticipate": {
+      "r2": 0.9369,
+      "rmse": 4.3054,
+      "mae": 3.3998
+    },
+    "score_withstand": {
+      "r2": 0.9515,
+      "rmse": 4.1581,
+      "mae": 3.2769
+    },
+    "score_recover": {
+      "r2": 0.9174,
+      "rmse": 4.0299,
+      "mae": 3.174
+    },
+    "score_adapt": {
+      "r2": 0.9473,
+      "rmse": 3.8495,
+      "mae": 2.9
+    },
+    "score_evolve": {
+      "r2": 0.9387,
+      "rmse": 4.6604,
+      "mae": 3.6483
+    }
+  },
+  "anomaly_detection": {
+    "n_anomalies": 50,
+    "avg_normal": 56.31,
+    "avg_anomaly": 50.13
+  },
+  "forecasting": {
+    "r2": 0.9171,
+    "rmse": 6.5324,
+    "mape": 14.24
+  },
+  "nlp": {
+    "test_accuracy": 0.9026
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "R01",
+    "title": "Implement Automated Backup Testing",
+    "description": "Set up automated monthly backup restoration tests to verify data integrity and recovery procedures.",
+    "goal": "Recover",
+    "impact_pct": 22,
+    "cost_usd": 15000,
+    "time_weeks": 6,
+    "priority_base": 1
+  },
+  {
+    "id": "R02",
+    "title": "Deploy SIEM Solution",
+    "description": "Implement a Security Information and Event Management system for centralized log collection and threat detection.",
+    "goal": "Anticipate",
+    "impact_pct": 20,
+    "cost_usd": 30000,
+    "time_weeks": 10,
+    "priority_base": 1
+  },
+  {
+    "id": "R03",
+    "title": "Enforce Multi-Factor Authentication",
+    "description": "Roll out MFA to all user accounts, targeting 95%+ coverage across all systems.",
+    "goal": "Withstand",
+    "impact_pct": 18,
+    "cost_usd": 8000,
+    "time_weeks": 4,
+    "priority_base": 1
+  },
+  {
+    "id": "R04",
+    "title": "Implement Network Segmentation",
+    "description": "Divide your network into isolated segments to limit lateral movement during an attack.",
+    "goal": "Withstand",
+    "impact_pct": 15,
+    "cost_usd": 30000,
+    "time_weeks": 12,
+    "priority_base": 2
+  },
+  {
+    "id": "R05",
+    "title": "Establish Disaster Recovery Plan",
+    "description": "Create and regularly test a formal disaster recovery plan with defined RTO/RPO targets.",
+    "goal": "Recover",
+    "impact_pct": 20,
+    "cost_usd": 10000,
+    "time_weeks": 8,
+    "priority_base": 1
+  },
+  {
+    "id": "R06",
+    "title": "Increase Security Awareness Training",
+    "description": "Raise employee security training completion to 90%+ with quarterly phishing simulations.",
+    "goal": "Anticipate",
+    "impact_pct": 12,
+    "cost_usd": 5000,
+    "time_weeks": 4,
+    "priority_base": 2
+  },
+  {
+    "id": "R07",
+    "title": "Deploy Endpoint Detection & Response (EDR)",
+    "description": "Install EDR solution across all endpoints for real-time threat detection and response.",
+    "goal": "Withstand",
+    "impact_pct": 14,
+    "cost_usd": 20000,
+    "time_weeks": 6,
+    "priority_base": 2
+  },
+  {
+    "id": "R08",
+    "title": "Improve Patch Compliance",
+    "description": "Implement automated patch management to achieve 95%+ patch compliance within 30 days of release.",
+    "goal": "Withstand",
+    "impact_pct": 10,
+    "cost_usd": 12000,
+    "time_weeks": 6,
+    "priority_base": 2
+  },
+  {
+    "id": "R09",
+    "title": "Deploy SOAR Platform",
+    "description": "Implement Security Orchestration, Automation and Response to automate repetitive security tasks.",
+    "goal": "Adapt",
+    "impact_pct": 16,
+    "cost_usd": 40000,
+    "time_weeks": 14,
+    "priority_base": 3
+  },
+  {
+    "id": "R10",
+    "title": "Establish Post-Incident Review Process",
+    "description": "Implement mandatory post-incident reviews for all security events to drive continuous improvement.",
+    "goal": "Evolve",
+    "impact_pct": 10,
+    "cost_usd": 3000,
+    "time_weeks": 2,
+    "priority_base": 2
+  },
+  {
+    "id": "R11",
+    "title": "Add Threat Intelligence Feeds",
+    "description": "Subscribe to 3+ threat intelligence feeds for proactive awareness of emerging threats.",
+    "goal": "Anticipate",
+    "impact_pct": 12,
+    "cost_usd": 10000,
+    "time_weeks": 3,
+    "priority_base": 2
+  },
+  {
+    "id": "R12",
+    "title": "Encrypt Data at Rest",
+    "description": "Implement full-disk and database encryption to protect sensitive data from unauthorized access.",
+    "goal": "Withstand",
+    "impact_pct": 11,
+    "cost_usd": 15000,
+    "time_weeks": 8,
+    "priority_base": 2
+  },
+  {
+    "id": "R13",
+    "title": "Hire Dedicated CISO",
+    "description": "Appoint a Chief Information Security Officer to provide strategic security leadership.",
+    "goal": "Evolve",
+    "impact_pct": 15,
+    "cost_usd": 150000,
+    "time_weeks": 12,
+    "priority_base": 2
+  },
+  {
+    "id": "R14",
+    "title": "Implement Security Metrics Dashboard",
+    "description": "Track 20+ security KPIs and report to board quarterly to drive accountability.",
+    "goal": "Evolve",
+    "impact_pct": 8,
+    "cost_usd": 5000,
+    "time_weeks": 4,
+    "priority_base": 3
+  },
+  {
+    "id": "R15",
+    "title": "Deploy Honeypots for Early Detection",
+    "description": "Set up decoy systems to detect attackers early in the kill chain before damage occurs.",
+    "goal": "Anticipate",
+    "impact_pct": 12,
+    "cost_usd": 5000,
+    "time_weeks": 2,
+    "priority_base": 3
+  }
+]
